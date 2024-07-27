@@ -1,8 +1,6 @@
-# Lab2---Conway-s-Game-of-Life
-Michelle Mejía 22596
-
 # Conway's Game of Life
-
+Michelle Mejía 22596
+s
 This is an implementation of Conway's Game of Life in Rust using the `minifb` crate for rendering.
 
 ## Description
@@ -31,6 +29,7 @@ Run:
 Cargo build
 Cargo run
 
-Enjoy!
+
+
 ![Game of Life](/Video.gif)
 
