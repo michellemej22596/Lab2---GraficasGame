@@ -1,0 +1,33 @@
+# Ignore built files
+/target/
+
+# Ignore lock file
+Cargo.lock
+
+# Ignore compiled binaries
+*.rs.bk
+
+# Ignore output from rustc and cargo
+*.rlib
+*.rmeta
+*.dSYM
+*.dSYM.zip
+*.dSYM.tar.gz
+
+# Ignore Cargo's output
+**/*.rs.bk
+
+# Ignore backup files
+*.bak
+*.tmp
+*.swp
+
+# Ignore node_modules (if using wasm-pack)
+node_modules/
+
+# Ignore the output of the debug and release builds
+debug/
+release/
+
+# Ignore temporary files
+*.tmp
